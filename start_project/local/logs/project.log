@@ -1,0 +1,70 @@
+2019-12-22T02:59:51.811Z - normal: Load ~/.CocosCreator/settings.json
+2019-12-22T02:59:51.870Z - normal: Initializing Asset Database
+2019-12-22T02:59:51.872Z - normal: checking language setting...
+2019-12-22T02:59:51.872Z - normal: Language: en
+2019-12-22T02:59:52.607Z - success: preview server running at http://localhost:7456
+2019-12-22T02:59:52.612Z - success: protocol editor-framework registered
+2019-12-22T02:59:52.612Z - success: protocol app registered
+2019-12-22T02:59:52.612Z - success: protocol theme registered
+2019-12-22T02:59:52.612Z - success: protocol packages registered
+2019-12-22T02:59:52.612Z - success: protocol uuid registerred
+2019-12-22T02:59:52.612Z - success: protocol db registerred
+2019-12-22T02:59:52.613Z - success: protocol thumbnail registerred
+2019-12-22T02:59:52.613Z - success: protocol unpack registerred
+2019-12-22T02:59:52.613Z - success: protocol disable-commonjs registerred
+2019-12-22T02:59:52.729Z - normal: connected!
+2019-12-22T02:59:52.730Z - normal: Check project C:\Users\edsol\mygame\start_project
+2019-12-22T02:59:52.732Z - normal: Initializing project C:\Users\edsol\mygame\start_project
+2019-12-22T02:59:52.841Z - success: adapters loaded
+2019-12-22T02:59:52.856Z - success: asset-db-debugger loaded
+2019-12-22T02:59:52.977Z - success: fb-audience-network loaded
+2019-12-22T02:59:53.026Z - success: fb-live-stream loaded
+2019-12-22T02:59:53.048Z - success: google-play-instant loaded
+2019-12-22T02:59:53.078Z - success: huawei-runtime loaded
+2019-12-22T02:59:53.083Z - success: jkw-adapter loaded
+2019-12-22T02:59:53.090Z - success: jsb-adapter loaded
+2019-12-22T02:59:53.118Z - success: oppo-runtime loaded
+2019-12-22T02:59:53.130Z - success: package-manager loaded
+2019-12-22T02:59:53.147Z - success: runtime-dev-tools loaded
+2019-12-22T02:59:53.166Z - success: sdkbox loaded
+2019-12-22T02:59:53.177Z - success: ui-kit-preview-extra loaded
+2019-12-22T02:59:53.189Z - success: ui-kit-preview loaded
+2019-12-22T02:59:53.231Z - success: vivo-runtime loaded
+2019-12-22T02:59:53.234Z - success: alipay-minigame loaded
+2019-12-22T02:59:53.278Z - success: assets loaded
+2019-12-22T02:59:53.281Z - success: baidugame-opendata loaded
+2019-12-22T02:59:53.284Z - success: baidugame loaded
+2019-12-22T02:59:53.287Z - success: builder loaded
+2019-12-22T02:59:53.453Z - success: cocos-services loaded
+2019-12-22T02:59:53.456Z - success: console loaded
+2019-12-22T02:59:53.467Z - success: fb-instant-games loaded
+2019-12-22T02:59:53.470Z - success: game-window loaded
+2019-12-22T02:59:53.472Z - success: google-instant-games loaded
+2019-12-22T02:59:53.476Z - success: hierarchy loaded
+2019-12-22T02:59:53.478Z - success: inspector loaded
+2019-12-22T02:59:54.074Z - success: cpk-publish loaded
+2019-12-22T02:59:54.080Z - success: keystore loaded
+2019-12-22T02:59:54.092Z - success: node-library loaded
+2019-12-22T02:59:54.093Z - success: open-recent-items loaded
+2019-12-22T02:59:54.096Z - success: package-asset loaded
+2019-12-22T02:59:54.097Z - success: preferences loaded
+2019-12-22T02:59:54.099Z - success: project-exporter loaded
+2019-12-22T02:59:54.102Z - success: project-importer loaded
+2019-12-22T02:59:54.104Z - success: project-settings loaded
+2019-12-22T02:59:54.108Z - success: scene loaded
+2019-12-22T02:59:54.110Z - success: simulator-debugger loaded
+2019-12-22T02:59:54.111Z - success: sprite-editor loaded
+2019-12-22T02:59:54.113Z - success: store loaded
+2019-12-22T02:59:54.117Z - success: timeline loaded
+2019-12-22T02:59:54.121Z - success: wechatgame-opendata loaded
+2019-12-22T02:59:54.126Z - success: wechatgame loaded
+2019-12-22T02:59:54.132Z - success: xiaomi-runtime loaded
+2019-12-22T02:59:54.984Z - normal: Initializing Cocos2d
+2019-12-22T02:59:57.416Z - normal: Initializing engine extends
+2019-12-22T02:59:58.719Z - info: Cocos Service load base data!
+2019-12-22T03:00:05.163Z - normal: Loading packages
+2019-12-22T03:00:05.176Z - normal: Watching packages
+2019-12-22T03:00:05.565Z - normal: Run Application
+2019-12-22T04:03:57.936Z - success: TypeScript Configuration file has been copied to C:\Users\edsol\mygame\start_project\tsconfig.json
+2019-12-22T04:04:05.086Z - success: VS Code extension installed to C:\Users\edsol\.vscode\extensions
+2019-12-22T04:04:11.738Z - success: API data generated and copied to C:\Users\edsol\mygame\start_project\creator.d.ts
