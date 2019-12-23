@@ -8,9 +8,10 @@ cc.Class({
 
   getPlayerDistance() {
     // 根据 player 节点位置判断距离
-    var playerPos = this.game.player.getPosition()
+    var playerPos = this.game.player.position
     // 根据两点位置计算两点之间距离
     var dist = this.node.position.sub(playerPos).mag()
+    console.log('dist: ', dist)
     return dist
   },
 
