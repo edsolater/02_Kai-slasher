@@ -24,6 +24,7 @@ export default class Setting extends cc.Component {
   @property
   gameMaxAviailableSeconds = 3 * 60 /* 暂定为3分钟 */ //单局游戏的最大时间
 
+  // TOLEARN：是不是可以在这里载入全局配置？
   // start() {
   //   this.label.string = this.text
   // }
