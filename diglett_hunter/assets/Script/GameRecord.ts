@@ -5,27 +5,29 @@ const { ccclass, property } = cc._decorator
  */
 @ccclass
 export default class GameRecord extends cc.Component {
-  @property
-  passedSeconds = 0 //玩家已坚持的秒数
+  @property({ tooltip: '玩家已坚持的秒数' })
+  passedSeconds = 0
 
-  @property
-  totalScore = 0 //游戏中获得的分数
+  @property({ tooltip: '游戏中获得的分数' })
+  totalScore = 0
 
-  @property
-  currentCombo = 0 //（单局游戏中）当前连击层级
+  @property({ tooltip: '(单局游戏中）当前连击层级' })
+  currentCombo = 0
 
-  @property
-  highestCombo = 0 //（单局游戏中）玩家曾达到的最高连击层级
+  @property({ tooltip: '单局游戏中）玩家曾达到的最高连击层级' })
+  highestCombo = 0
 
-  @property
-  comboList = 5 //用于记录游戏中的有效连击，每次中断连击时推入
+  @property({ tooltip: '用于记录游戏中的有效连击，每次中断连击时推入' })
+  comboList = 0
 
-  @property
-  counter = {
-    kai: 0,
-    diglett1: 0,
-    diglett2: 0,
-  } //玩家击中的地鼠/凯少个数
+  @property({ tooltip: '玩家击中的凯少数' })
+  beatAgainstKai = 0
+
+  @property({ tooltip: '玩家击中的普通地鼠数' })
+  beatAgainstDiglett1 = 0
+
+  @property({ tooltip: '玩家击中的地鼠2号数' })
+  beatAgainstDiglett2 = 0
 
   // start() {
   //   this.label.string = this.text
